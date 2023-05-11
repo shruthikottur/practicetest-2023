@@ -1,3 +1,4 @@
+git is a modern tool.
 hello world, i am learning git.
 git is fast and lightweight
 git is usefull

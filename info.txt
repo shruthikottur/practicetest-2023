@@ -2,3 +2,4 @@ hello world, i am learning git.
 git is fast and lightweight
 git is usefull
 added by hari.
+added by shruthi.

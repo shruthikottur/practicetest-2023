@@ -5,3 +5,4 @@ git is usefull
 added by hari.
 added by shruthi.
 svn is outdated
+svn was popular before git.
